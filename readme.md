@@ -7,4 +7,4 @@ This project was originally created to make experimentation easier for my projec
 Unfortunately the more advanced version of the application that supported loading and saving graphs of nodes via [RapidXml](https://rapidxml.sourceforge.net/), [ITK](https://itk.org/) operation support, and Linux support has long since been lost and only this early version of the codebase survives.
 
 A screenshot of this more advanced version does exist however:
-![screenshot](.\screenshot.jpg)
+![screenshot](screenshot.jpg)
